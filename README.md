@@ -19,15 +19,15 @@ height="80">](https://play.google.com/store/apps/details?id=com.yuzumin.nenenois
 GNU General Public License V3
 
 # List of Noises
-* nenenoise1
-* nenenoise2
-* nenenoise3
-* nenenoise4
-* nenenoise5
-* nenenoise6
-* nenenoise7
-* nenenoise8
-* nenenoise9
+* nenenoise1  Mommy (baby)
+* nenenoise2  Orange (baby)
+* nenenoise3  Apple (baby)
+* nenenoise4  Daddy(baby)
+* nenenoise5  Mmmm
+* nenenoise6  Hey daddy(baby)
+* nenenoise7  Baby english Nene
+* nenenoise8  Gabu noise
+* nenenoise9  
 * nenenoise10
 * nenenoise11
 * nenenoise12
