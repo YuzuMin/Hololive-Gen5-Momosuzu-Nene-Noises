@@ -62,10 +62,10 @@ GNU General Public License V3
 * nenenoise41 *Eating noises*
 * nenenoise42 I want to eat
 * nenenoise43 Very cool pineapple
-* nenenoise44
-* nenenoise45
-* nenenoise46
-* nenenoise47
-* nenenoise48
+* nenenoise44 *Weird pizza*
+* nenenoise45 Yaaaaaaaay
+* nenenoise46 [REDACTED]
+* nenenoise47 *Weird question*
+* nenenoise48 Arigato!
 * nenenoise49 Orayo!
 * nenenoise50 Byenara!
