@@ -40,10 +40,10 @@ GNU General Public License V3
 * nenenoise19 Hmph
 * nenenoise20 Matanene
 * nenenoise21 Change please
-* nenenoise22
-* nenenoise23
-* nenenoise24
-* nenenoise25
+* nenenoise22 *Crying noise*
+* nenenoise23 Kon Nene
+* nenenoise24 Oyasumi
+* nenenoise25 Bububububu
 * nenenoise26
 * nenenoise27
 * nenenoise28
