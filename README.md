@@ -27,8 +27,8 @@ GNU General Public License V3
 * nenenoise6  Hey daddy(baby)
 * nenenoise7  Baby english Nene
 * nenenoise8  Gabu noise
-* nenenoise9  
-* nenenoise10
+* nenenoise9  Te te tere
+* nenenoise10 Hii hii hiiya
 * nenenoise11
 * nenenoise12
 * nenenoise13
