@@ -44,8 +44,8 @@ GNU General Public License V3
 * nenenoise23 Kon Nene
 * nenenoise24 Oyasumi
 * nenenoise25 Bububububu
-* nenenoise26
-* nenenoise27
+* nenenoise26 Omaigah faqing thank you
+* nenenoise27 *Giving birth*
 * nenenoise28
 * nenenoise29
 * nenenoise30
