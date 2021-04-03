@@ -29,17 +29,17 @@ GNU General Public License V3
 * nenenoise8  Gabu noise
 * nenenoise9  Te te tere
 * nenenoise10 Hii hii hiiya
-* nenenoise11
-* nenenoise12
-* nenenoise13
-* nenenoise14
-* nenenoise15
-* nenenoise16
-* nenenoise17
-* nenenoise18
-* nenenoise19
-* nenenoise20
-* nenenoise21
+* nenenoise11 Thank you ve much
+* nenenoise12 Whats? what? what?
+* nenenoise13 Who?
+* nenenoise14 Who is Suzumomo Nene?
+* nenenoise15 Who are you?
+* nenenoise16 Nooo
+* nenenoise17 Who is girl?
+* nenenoise18 Oh mai gah!
+* nenenoise19 Hmph
+* nenenoise20 Matanene
+* nenenoise21 Change please
 * nenenoise22
 * nenenoise23
 * nenenoise24
