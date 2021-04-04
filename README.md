@@ -54,7 +54,7 @@ GNU General Public License V3
 * nenenoise33 NOOOOOOOOOOOO!
 * nenenoise34 No pineapple pizza
 * nenenoise35 Hot pineapple. No!
-* nenenoise36 Cool pineapple. Yes!
+* nenenoise36 Pui Pui Pui
 * nenenoise37 Very very delicious
 * nenenoise38 Veeeeeee
 * nenenoise39 Yeah itadakimasu
