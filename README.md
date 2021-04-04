@@ -46,26 +46,26 @@ GNU General Public License V3
 * nenenoise25 Bububububu
 * nenenoise26 Omaigah faqing thank you
 * nenenoise27 *Giving birth*
-* nenenoise28
-* nenenoise29
-* nenenoise30
-* nenenoise31
-* nenenoise32
-* nenenoise33
-* nenenoise34
-* nenenoise35
-* nenenoise36
-* nenenoise37
-* nenenoise38
-* nenenoise39
-* nenenoise40
-* nenenoise41
-* nenenoise42
-* nenenoise43
-* nenenoise44
-* nenenoise45
-* nenenoise46
-* nenenoise47
-* nenenoise48
-* nenenoise49
-* nenenoise50
+* nenenoise28 Beer beer
+* nenenoise29 Nya nya nya nya
+* nenenoise30 Please eat me
+* nenenoise31 I am tasty
+* nenenoise32 Pineapple pizza
+* nenenoise33 NOOOOOOOOOOOO!
+* nenenoise34 No pineapple pizza
+* nenenoise35 Hot pineapple. No!
+* nenenoise36 Cool pineapple. Yes!
+* nenenoise37 Very very delicious
+* nenenoise38 Veeeeeee
+* nenenoise39 Yeah itadakimasu
+* nenenoise40 Puck
+* nenenoise41 *Eating noises*
+* nenenoise42 I want to eat
+* nenenoise43 Very cool pineapple
+* nenenoise44 *Weird pizza*
+* nenenoise45 Yaaaaaaaay
+* nenenoise46 [REDACTED]
+* nenenoise47 *Weird question*
+* nenenoise48 Arigato!
+* nenenoise49 Orayo!
+* nenenoise50 Byenara!
