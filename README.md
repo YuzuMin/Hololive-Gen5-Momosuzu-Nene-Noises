@@ -48,7 +48,7 @@ GNU General Public License V3
 * nenenoise27 *Giving birth*
 * nenenoise28 Beer beer
 * nenenoise29 Nya nya nya nya
-* nenenoise30 Please eat me
+* nenenoise30 Nene is god
 * nenenoise31 I am tasty
 * nenenoise32 Pineapple pizza
 * nenenoise33 NOOOOOOOOOOOO!
@@ -58,7 +58,7 @@ GNU General Public License V3
 * nenenoise37 Very very delicious
 * nenenoise38 Veeeeeee
 * nenenoise39 Yeah itadakimasu
-* nenenoise40 Puck
+* nenenoise40 Ok ok ok ok
 * nenenoise41 *Eating noises*
 * nenenoise42 Kumaaaaa
 * nenenoise43 *Bear noises*
