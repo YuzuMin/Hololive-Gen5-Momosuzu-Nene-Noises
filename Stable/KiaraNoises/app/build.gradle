@@ -7,8 +7,8 @@ android {
         applicationId "com.yuzumin.kiaranoise"
         minSdkVersion 21
         targetSdkVersion 30
-        versionCode 8
-        versionName "2021.3 REV-8"
+        versionCode 1
+        versionName "2021.4 REV-1"
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
     }
     buildTypes {
