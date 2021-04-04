@@ -64,7 +64,7 @@ GNU General Public License V3
 * nenenoise43 *Bear noises*
 * nenenoise44 Hexagon
 * nenenoise45 Yaaaaaaaay
-* nenenoise46 [REDACTED]
+* nenenoise46 Hot banana yay very delicious
 * nenenoise47 *Weird question*
 * nenenoise48 Arigato!
 * nenenoise49 Orayo!
