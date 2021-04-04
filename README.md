@@ -53,10 +53,10 @@ GNU General Public License V3
 * nenenoise32 Pineapple pizza
 * nenenoise33 NOOOOOOOOOOOO!
 * nenenoise34 No pineapple pizza
-* nenenoise35 Hot pineapple. No!
+* nenenoise35 Supper Nene Punch 
 * nenenoise36 Pui Pui Pui
 * nenenoise37 Very very delicious
-* nenenoise38 Veeeeeee
+* nenenoise38 *Nene sneexe*
 * nenenoise39 Yeah itadakimasu
 * nenenoise40 Ok ok ok ok
 * nenenoise41 *Eating noises*
