@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.yuzumin.kiaranoise">
+    package="com.yuzumin.nenenoises">
 
     <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
     <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
     <uses-permission android:name="android.permission.VIBRATE" />
 
     <application
-        android:name="com.yuzumin.kiaranoise.application.App"
+        android:name="com.yuzumin.nenenoises.application.App"
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
         android:label="@string/app_name"
@@ -15,10 +15,10 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
         <activity
-            android:name="com.yuzumin.kiaranoise.MainActivity"
+            android:name="com.yuzumin.nenenoises.MainActivity"
             android:screenOrientation="portrait"/>
         <activity
-            android:name="com.yuzumin.kiaranoise.Splash"
+            android:name="com.yuzumin.nenenoises.Splash"
             android:screenOrientation="portrait">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -28,32 +28,32 @@
         </activity>
 
         <activity
-            android:name="com.yuzumin.kiaranoise.LegalInfo"
+            android:name="com.yuzumin.nenenoises.LegalInfo"
             android:screenOrientation="portrait" />
         <activity
-            android:name="com.yuzumin.kiaranoise.Reader"
+            android:name="com.yuzumin.nenenoises.Reader"
             android:screenOrientation="portrait" />
         <activity
-            android:name="com.yuzumin.kiaranoise.AppMenu"
+            android:name="com.yuzumin.nenenoises.AppMenu"
             android:screenOrientation="portrait" />
         <activity
-            android:name="com.yuzumin.kiaranoise.activities.AlarmActivity"
+            android:name="com.yuzumin.nenenoises.activities.AlarmActivity"
             android:screenOrientation="portrait" />
         <activity
-            android:name="com.yuzumin.kiaranoise.ClickerSettings"
+            android:name="com.yuzumin.nenenoises.ClickerSettings"
             android:screenOrientation="portrait" />
         <activity
-            android:name="com.yuzumin.kiaranoise.activities.RingActivity"
+            android:name="com.yuzumin.nenenoises.activities.RingActivity"
             android:screenOrientation="portrait" />
 
-        <receiver android:name="com.yuzumin.kiaranoise.broadcastreceiver.AlarmBroadcastReceiver">
+        <receiver android:name="com.yuzumin.nenenoises.broadcastreceiver.AlarmBroadcastReceiver">
             <intent-filter>
                 <action android:name="android.intent.action.BOOT_COMPLETED" />
             </intent-filter>
         </receiver>
 
-        <service android:name="com.yuzumin.kiaranoise.service.AlarmService" />
-        <service android:name="com.yuzumin.kiaranoise.service.RescheduleAlarmsService" />
+        <service android:name="com.yuzumin.nenenoises.service.AlarmService" />
+        <service android:name="com.yuzumin.nenenoises.service.RescheduleAlarmsService" />
     </application>
 
 </manifest>
