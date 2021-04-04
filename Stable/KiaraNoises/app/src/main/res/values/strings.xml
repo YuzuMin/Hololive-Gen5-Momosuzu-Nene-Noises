@@ -1,7 +1,7 @@
 <resources>
-    <string name="app_name">Kiara Noises</string>
-    <string name="app_version">2021.3 REV-8</string>
-    <string name="press_vtuber">Press Kiara!</string>
+    <string name="app_name">Nene Noises</string>
+    <string name="app_version">2021.4 REV-1</string>
+    <string name="press_vtuber">Press Nene!</string>
 
 
     <string name="noise1_text">EAT ME!</string>
