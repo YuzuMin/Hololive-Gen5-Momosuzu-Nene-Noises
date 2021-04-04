@@ -60,9 +60,9 @@ GNU General Public License V3
 * nenenoise39 Yeah itadakimasu
 * nenenoise40 Puck
 * nenenoise41 *Eating noises*
-* nenenoise42 I want to eat
-* nenenoise43 Very cool pineapple
-* nenenoise44 *Weird pizza*
+* nenenoise42 Kumaaaaa
+* nenenoise43 *Bear noises*
+* nenenoise44 Hexagon
 * nenenoise45 Yaaaaaaaay
 * nenenoise46 [REDACTED]
 * nenenoise47 *Weird question*
