@@ -87,7 +87,7 @@
             android:id="@+id/image"
             android:layout_width="match_parent"
             android:layout_height="340dp"
-            app:srcCompat="@drawable/kiara0" />
+            app:srcCompat="@drawable/nene0" />
 
         <HorizontalScrollView
             android:layout_width="match_parent"
