@@ -7,6 +7,7 @@
     <uses-permission android:name="android.permission.VIBRATE" />
 
     <application
+        android:largeHeap="true"
         android:name="com.yuzumin.nenenoises.application.App"
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
