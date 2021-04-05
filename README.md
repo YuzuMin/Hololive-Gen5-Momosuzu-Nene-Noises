@@ -2,8 +2,8 @@
  GitHub Repository for Nene Noises Android App
 
 # Momosuzu Nene Noises
-Nene Noises is a clicker app for Android smartphones and tablets that brings entertainment to you by playing noises made by Momosuzu .
-The interface of Momosuzu Noises is designed to be simple, intuitive and efficient. By removing what is not essential, we make access to everything you need even easier.
+Nene Noises is a clicker app for Android smartphones and tablets that brings entertainment to you by playing noises made by Nene.
+The interface of Nene Noises is designed to be simple, intuitive and efficient. By removing what is not essential, we make access to everything you need even easier.
 
 # Download
 [<img src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png"
