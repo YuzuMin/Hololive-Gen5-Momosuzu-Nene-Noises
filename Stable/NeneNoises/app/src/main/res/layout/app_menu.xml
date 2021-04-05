@@ -94,7 +94,7 @@
                                     android:layout_width="match_parent"
                                     android:layout_height="wrap_content"
                                     android:fontFamily="sans-serif-medium"
-                                    android:text=" Takanashi Kiara Ch."
+                                    android:text="Nene Ch.桃鈴ねね"
                                     android:textAlignment="center"
                                     android:textColor="@color/darkporcelain"
                                     android:textSize="11sp" />
@@ -103,7 +103,7 @@
                                     android:layout_width="match_parent"
                                     android:layout_height="wrap_content"
                                     android:fontFamily="sans-serif-medium"
-                                    android:text="BEST KUSOTORI"
+                                    android:text="SEAL or BEAR"
                                     android:textAlignment="center"
                                     android:textColor="@color/porcelain" />
                             </LinearLayout>
