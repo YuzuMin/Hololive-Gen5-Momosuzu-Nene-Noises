@@ -53,7 +53,7 @@ GNU General Public License V3
 * nenenoise32 Pineapple pizza
 * nenenoise33 NOOOOOOOOOOOO!
 * nenenoise34 No pineapple pizza
-* nenenoise35 Supper Nene Punch 
+* nenenoise35 Super Nene Punch 
 * nenenoise36 Pui Pui Pui
 * nenenoise37 Very very delicious
 * nenenoise38 *Nene sneexe*
