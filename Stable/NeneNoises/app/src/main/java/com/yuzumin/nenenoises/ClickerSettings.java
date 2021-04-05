@@ -19,20 +19,15 @@ public class ClickerSettings extends AppCompatActivity {
 
     ImageView back_btn;
 
-    TableRow kiaraIMG0Row;
-    TableRow kiaraIMG1Row;
-    TableRow kiaraIMG2Row;
-    TableRow kiaraIMG3Row;
-    TableRow kiaraIMG4Row;
-    TableRow kiaraIMG5Row;
-    TableRow kiaraIMG6Row;
-    RadioButton kiaraIMG0;
-    RadioButton kiaraIMG1;
-    RadioButton kiaraIMG2;
-    RadioButton kiaraIMG3;
-    RadioButton kiaraIMG4;
-    RadioButton kiaraIMG5;
-    RadioButton kiaraIMG6;
+    TableRow NeneIMG0Row;
+    TableRow NeneIMG1Row;
+    TableRow NeneIMG2Row;
+    TableRow NeneIMG3Row;
+    RadioButton NeneIMG0;
+    RadioButton NeneIMG1;
+    RadioButton NeneIMG2;
+    RadioButton NeneIMG3;
+
 
     Integer charavalue;
 
@@ -118,244 +113,118 @@ public class ClickerSettings extends AppCompatActivity {
         });
 
 
-        kiaraIMG0=findViewById(R.id.kiara0_img);
-        kiaraIMG0Row=findViewById(R.id.kiara0_img_row);
-        kiaraIMG1=findViewById(R.id.kiara1_img);
-        kiaraIMG1Row=findViewById(R.id.kiara1_img_row);
-        kiaraIMG2=findViewById(R.id.kiara2_img);
-        kiaraIMG2Row=findViewById(R.id.kiara2_img_row);
-        kiaraIMG3=findViewById(R.id.kiara3_img);
-        kiaraIMG3Row=findViewById(R.id.kiara3_img_row);
-        kiaraIMG4=findViewById(R.id.kiara4_img);
-        kiaraIMG4Row=findViewById(R.id.kiara4_img_row);
-        kiaraIMG5=findViewById(R.id.kiara5_img);
-        kiaraIMG5Row=findViewById(R.id.kiara5_img_row);
-        kiaraIMG6=findViewById(R.id.kiara6_img);
-        kiaraIMG6Row=findViewById(R.id.kiara6_img_row);
+        NeneIMG0=findViewById(R.id.nene0_img);
+        NeneIMG0Row=findViewById(R.id.nene0_img_row);
+        NeneIMG1=findViewById(R.id.nene1_img);
+        NeneIMG1Row=findViewById(R.id.nene1_img_row);
+        NeneIMG2=findViewById(R.id.nene2_img);
+        NeneIMG2Row=findViewById(R.id.nene2_img_row);
+        NeneIMG3=findViewById(R.id.nene3_img);
+        NeneIMG3Row=findViewById(R.id.nene3_img_row);
 
 
-        kiaraIMG0.setOnClickListener(new View.OnClickListener() {
+        NeneIMG0.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
                 charavalue=0;
                 SoundSettingsEditor =getSharedPreferences("Chara",MODE_PRIVATE).edit();
                 SoundSettingsEditor.putInt("CharaValue",charavalue);
                 SoundSettingsEditor.apply();
-                kiaraIMG0.setChecked(true);
-                kiaraIMG1.setChecked(false);
-                kiaraIMG2.setChecked(false);
-                kiaraIMG3.setChecked(false);
-                kiaraIMG4.setChecked(false);
-                kiaraIMG5.setChecked(false);
-                kiaraIMG6.setChecked(false);
+                NeneIMG0.setChecked(true);
+                NeneIMG1.setChecked(false);
+                NeneIMG2.setChecked(false);
+                NeneIMG3.setChecked(false);
             }
         });
-        kiaraIMG0Row.setOnClickListener(new View.OnClickListener() {
+        NeneIMG0Row.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
                 charavalue=0;
                 SoundSettingsEditor =getSharedPreferences("Chara",MODE_PRIVATE).edit();
                 SoundSettingsEditor.putInt("CharaValue",charavalue);
                 SoundSettingsEditor.apply();
-                kiaraIMG0.setChecked(true);
-                kiaraIMG1.setChecked(false);
-                kiaraIMG2.setChecked(false);
-                kiaraIMG3.setChecked(false);
-                kiaraIMG4.setChecked(false);
-                kiaraIMG5.setChecked(false);
-                kiaraIMG6.setChecked(false);
+                NeneIMG0.setChecked(true);
+                NeneIMG1.setChecked(false);
+                NeneIMG2.setChecked(false);
+                NeneIMG3.setChecked(false);
             }
         });
-        kiaraIMG1.setOnClickListener(new View.OnClickListener() {
+        NeneIMG1.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
                 charavalue=1;
                 SoundSettingsEditor =getSharedPreferences("Chara",MODE_PRIVATE).edit();
                 SoundSettingsEditor.putInt("CharaValue",charavalue);
                 SoundSettingsEditor.apply();
-                kiaraIMG0.setChecked(false);
-                kiaraIMG1.setChecked(true);
-                kiaraIMG2.setChecked(false);
-                kiaraIMG3.setChecked(false);
-                kiaraIMG4.setChecked(false);
-                kiaraIMG5.setChecked(false);
-                kiaraIMG6.setChecked(false);
+                NeneIMG0.setChecked(false);
+                NeneIMG1.setChecked(true);
+                NeneIMG2.setChecked(false);
+                NeneIMG3.setChecked(false);
             }
         });
-        kiaraIMG1Row.setOnClickListener(new View.OnClickListener() {
+        NeneIMG1Row.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
                 charavalue=1;
                 SoundSettingsEditor =getSharedPreferences("Chara",MODE_PRIVATE).edit();
                 SoundSettingsEditor.putInt("CharaValue",charavalue);
                 SoundSettingsEditor.apply();
-                kiaraIMG0.setChecked(false);
-                kiaraIMG1.setChecked(true);
-                kiaraIMG2.setChecked(false);
-                kiaraIMG3.setChecked(false);
-                kiaraIMG4.setChecked(false);
-                kiaraIMG5.setChecked(false);
-                kiaraIMG6.setChecked(false);
+                NeneIMG0.setChecked(false);
+                NeneIMG1.setChecked(true);
+                NeneIMG2.setChecked(false);
+                NeneIMG3.setChecked(false);
             }
         });
-        kiaraIMG2.setOnClickListener(new View.OnClickListener() {
+        NeneIMG2.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
                 charavalue=2;
                 SoundSettingsEditor =getSharedPreferences("Chara",MODE_PRIVATE).edit();
                 SoundSettingsEditor.putInt("CharaValue",charavalue);
                 SoundSettingsEditor.apply();
-                kiaraIMG0.setChecked(false);
-                kiaraIMG1.setChecked(false);
-                kiaraIMG2.setChecked(true);
-                kiaraIMG3.setChecked(false);
-                kiaraIMG4.setChecked(false);
-                kiaraIMG5.setChecked(false);
-                kiaraIMG6.setChecked(false);
+                NeneIMG0.setChecked(false);
+                NeneIMG1.setChecked(false);
+                NeneIMG2.setChecked(true);
+                NeneIMG3.setChecked(false);
             }
         });
-        kiaraIMG2Row.setOnClickListener(new View.OnClickListener() {
+        NeneIMG2Row.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
                 charavalue=2;
                 SoundSettingsEditor =getSharedPreferences("Chara",MODE_PRIVATE).edit();
                 SoundSettingsEditor.putInt("CharaValue",charavalue);
                 SoundSettingsEditor.apply();
-                kiaraIMG0.setChecked(false);
-                kiaraIMG1.setChecked(false);
-                kiaraIMG2.setChecked(true);
-                kiaraIMG3.setChecked(false);
-                kiaraIMG4.setChecked(false);
-                kiaraIMG5.setChecked(false);
-                kiaraIMG6.setChecked(false);
+                NeneIMG0.setChecked(false);
+                NeneIMG1.setChecked(false);
+                NeneIMG2.setChecked(true);
+                NeneIMG3.setChecked(false);
             }
         });
-        kiaraIMG3.setOnClickListener(new View.OnClickListener() {
+        NeneIMG3.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
                 charavalue=3;
                 SoundSettingsEditor =getSharedPreferences("Chara",MODE_PRIVATE).edit();
                 SoundSettingsEditor.putInt("CharaValue",charavalue);
                 SoundSettingsEditor.apply();
-                kiaraIMG0.setChecked(false);
-                kiaraIMG1.setChecked(false);
-                kiaraIMG2.setChecked(false);
-                kiaraIMG3.setChecked(true);
-                kiaraIMG4.setChecked(false);
-                kiaraIMG5.setChecked(false);
-                kiaraIMG6.setChecked(false);
+                NeneIMG0.setChecked(false);
+                NeneIMG1.setChecked(false);
+                NeneIMG2.setChecked(false);
+                NeneIMG3.setChecked(true);
             }
         });
-        kiaraIMG3Row.setOnClickListener(new View.OnClickListener() {
+        NeneIMG3Row.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
                 charavalue=3;
                 SoundSettingsEditor =getSharedPreferences("Chara",MODE_PRIVATE).edit();
                 SoundSettingsEditor.putInt("CharaValue",charavalue);
                 SoundSettingsEditor.apply();
-                kiaraIMG0.setChecked(false);
-                kiaraIMG1.setChecked(false);
-                kiaraIMG2.setChecked(false);
-                kiaraIMG3.setChecked(true);
-                kiaraIMG4.setChecked(false);
-                kiaraIMG5.setChecked(false);
-                kiaraIMG6.setChecked(false);
-            }
-        });
-        kiaraIMG4.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                charavalue=4;
-                SoundSettingsEditor =getSharedPreferences("Chara",MODE_PRIVATE).edit();
-                SoundSettingsEditor.putInt("CharaValue",charavalue);
-                SoundSettingsEditor.apply();
-                kiaraIMG0.setChecked(false);
-                kiaraIMG1.setChecked(false);
-                kiaraIMG2.setChecked(false);
-                kiaraIMG3.setChecked(false);
-                kiaraIMG4.setChecked(true);
-                kiaraIMG5.setChecked(false);
-                kiaraIMG6.setChecked(false);
-            }
-        });
-        kiaraIMG4Row.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                charavalue=4;
-                SoundSettingsEditor =getSharedPreferences("Chara",MODE_PRIVATE).edit();
-                SoundSettingsEditor.putInt("CharaValue",charavalue);
-                SoundSettingsEditor.apply();
-                kiaraIMG0.setChecked(false);
-                kiaraIMG1.setChecked(false);
-                kiaraIMG2.setChecked(false);
-                kiaraIMG3.setChecked(false);
-                kiaraIMG4.setChecked(true);
-                kiaraIMG5.setChecked(false);
-                kiaraIMG6.setChecked(false);
-            }
-        });
-        kiaraIMG5.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                charavalue=5;
-                SoundSettingsEditor =getSharedPreferences("Chara",MODE_PRIVATE).edit();
-                SoundSettingsEditor.putInt("CharaValue",charavalue);
-                SoundSettingsEditor.apply();
-                kiaraIMG0.setChecked(false);
-                kiaraIMG1.setChecked(false);
-                kiaraIMG2.setChecked(false);
-                kiaraIMG3.setChecked(false);
-                kiaraIMG4.setChecked(false);
-                kiaraIMG5.setChecked(true);
-                kiaraIMG6.setChecked(false);
-            }
-        });
-        kiaraIMG5Row.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                charavalue=5;
-                SoundSettingsEditor =getSharedPreferences("Chara",MODE_PRIVATE).edit();
-                SoundSettingsEditor.putInt("CharaValue",charavalue);
-                SoundSettingsEditor.apply();
-                kiaraIMG0.setChecked(false);
-                kiaraIMG1.setChecked(false);
-                kiaraIMG2.setChecked(false);
-                kiaraIMG3.setChecked(false);
-                kiaraIMG4.setChecked(false);
-                kiaraIMG5.setChecked(true);
-                kiaraIMG6.setChecked(false);
-            }
-        });
-        kiaraIMG6.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                charavalue=6;
-                SoundSettingsEditor =getSharedPreferences("Chara",MODE_PRIVATE).edit();
-                SoundSettingsEditor.putInt("CharaValue",charavalue);
-                SoundSettingsEditor.apply();
-                kiaraIMG0.setChecked(false);
-                kiaraIMG1.setChecked(false);
-                kiaraIMG2.setChecked(false);
-                kiaraIMG3.setChecked(false);
-                kiaraIMG4.setChecked(false);
-                kiaraIMG5.setChecked(false);
-                kiaraIMG6.setChecked(true);
-            }
-        });
-        kiaraIMG6Row.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                charavalue=6;
-                SoundSettingsEditor =getSharedPreferences("Chara",MODE_PRIVATE).edit();
-                SoundSettingsEditor.putInt("CharaValue",charavalue);
-                SoundSettingsEditor.apply();
-                kiaraIMG0.setChecked(false);
-                kiaraIMG1.setChecked(false);
-                kiaraIMG2.setChecked(false);
-                kiaraIMG3.setChecked(false);
-                kiaraIMG4.setChecked(false);
-                kiaraIMG5.setChecked(false);
-                kiaraIMG6.setChecked(true);
+                NeneIMG0.setChecked(false);
+                NeneIMG1.setChecked(false);
+                NeneIMG2.setChecked(false);
+                NeneIMG3.setChecked(true);
             }
         });
 
@@ -2016,25 +1885,16 @@ public class ClickerSettings extends AppCompatActivity {
 
         switch (charavalue) {
             case 0:
-                kiaraIMG0.setChecked(true);
+                NeneIMG0.setChecked(true);
                 break;
             case 1:
-                kiaraIMG1.setChecked(true);
+                NeneIMG1.setChecked(true);
                 break;
             case 2:
-                kiaraIMG2.setChecked(true);
-                break;
-            case 3:
-                kiaraIMG3.setChecked(true);
-                break;
-            case 4:
-                kiaraIMG4.setChecked(true);
-                break;
-            case 5:
-                kiaraIMG5.setChecked(true);
+                NeneIMG2.setChecked(true);
                 break;
             default:
-                kiaraIMG6.setChecked(true);
+                NeneIMG3.setChecked(true);
                 break;
         }
     }
