@@ -59,6 +59,9 @@ public class AlarmsListFragment extends Fragment implements OnToggleAlarmListene
         return view;
     }
 
+    public void onClick(View view){
+
+    }
 
     @Override
     public void onToggle(Alarm alarm) {
