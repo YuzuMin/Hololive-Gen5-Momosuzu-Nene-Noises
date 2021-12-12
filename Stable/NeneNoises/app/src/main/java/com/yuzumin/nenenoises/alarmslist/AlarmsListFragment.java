@@ -59,19 +59,25 @@ public class AlarmsListFragment extends Fragment implements OnToggleAlarmListene
         return view;
     }
 
-    public void onClick(View view){
-
-    }
 
     @Override
     public void onToggle(Alarm alarm) {
         if (alarm.isStarted()) {
             alarm.cancelAlarm(getContext());
+            alarm.getAlarmId();
+
             alarmsListViewModel.update(alarm);
         } else {
             alarm.schedule(getContext());
             alarmsListViewModel.update(alarm);
         }
+    }
+
+    @Override
+    public void onRemove(Alarm alarm) {
+        alarm.getAlarmId();
+
+        alarmsListViewModel.update(alarm);
     }
 
 }
